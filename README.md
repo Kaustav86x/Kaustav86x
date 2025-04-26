@@ -3,7 +3,8 @@
 🔭 I’m currently working on exciting full-stack projects using the MERN stack.  
 🌱 I’m constantly learning about advanced React patterns, serverless architectures, and microservices.  
 👯 I’m looking to collaborate on open-source MERN stack projects.  
-🚀 Recent project: [Elephant Juice](https://elephantjuice.org) - Love, Space, and Technology combined!  
+🚀 Recent project: [Elephant Juice](https://elephantjuice.org) - Love, Space, and Technology combined!
+💡 **Also passionate about Machine Learning & Deep Learning!** Built a CNN-based project for my Bachelor's final year that predicts [Colorization of Black and White Images using CNN and GAN] 📊🤖
 💬 Ask me about web development, React performance, backend APIs, and cloud deployments.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaustav-dey-73992a224/)
 ⚡ Fun fact: I can build UIs smoother than a shooting star! 🌠
@@ -25,4 +26,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav86x&layout=compact&theme=radical)
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaustav86x)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=Kaustav86x&color=blue)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kaustav86x&theme=radical)](https://git.io/streak-stats)
+
 
