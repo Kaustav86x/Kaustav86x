@@ -34,4 +34,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kaustav86x&theme=radical)](https://git.io/streak-stats)
 
+![Header](./github-header-image.png)
+
 
