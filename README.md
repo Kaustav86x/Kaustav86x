@@ -16,6 +16,12 @@
 
 💬 Ask me about web development, React performance, backend APIs, and cloud deployments.  
 <!--[LinkedIn](https://www.linkedin.com/in/kaustav-dey-73992a224/). -->
+## 📊 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Kaustav's profile views" />
+</p>
+
 ## 📫 Reach Me
 
 <p align="left">
@@ -56,9 +62,7 @@
 
 ## 📈 GitHub Stats
 
-![Kaustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustav86x&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav86x&layout=compact&theme=radical)
+![Kaustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustav86x&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav86x&layout=compact&theme=radical)
 
 ---
 
