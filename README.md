@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Kaustav Dey Banner" width="100%" />
+</p>
+
+---
+
 # Hi there, I'm Kaustav 👋
 
 🔭 I’m currently working on exciting full-stack projects using the MERN stack.  
@@ -33,6 +39,8 @@
 ![](https://komarev.com/ghpvc/?username=Kaustav86x&color=blue)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kaustav86x&theme=radical)](https://git.io/streak-stats)
+
+---
 
 ![Header](./github-header-image.png)
 
