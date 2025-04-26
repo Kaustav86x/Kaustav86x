@@ -15,7 +15,18 @@
 💡 **Also passionate about Machine Learning & Deep Learning!** Built a CNN-based project for my Bachelor's final year that predicts [Colorization of Black and White Images using CNN and GAN] 📊🤖.
 
 💬 Ask me about web development, React performance, backend APIs, and cloud deployments.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaustav-dey-73992a224/).
+<!--[LinkedIn](https://www.linkedin.com/in/kaustav-dey-73992a224/). -->
+## 📫 Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kaustav-dey-73992a224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Kaustav1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
 
 ⚡ Fun fact: I can build UIs smoother than a shooting star! 🌠
 
