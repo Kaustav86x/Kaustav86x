@@ -1,4 +1,4 @@
-<p align="center"> Group 1 (1)
+<p align="center">
 <!--   <img src="./github-header-image (1).png" alt="Kaustav Dey Banner" width="100%" /> -->
   <img src="./Group 1 (1).png" alt="Kaustav Dey Banner" width="100%" />
 </p>
