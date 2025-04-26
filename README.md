@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Kaustav Dey Banner" width="100%" />
+  <img src="./github-header-image.png" alt="Kaustav Dey Banner" width="100%" />
 </p>
 
 ---
@@ -42,6 +42,6 @@
 
 ---
 
-![Header](./github-header-image.png)
+<!--![Header](./github-header-image.png)-->
 
 
