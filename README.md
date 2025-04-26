@@ -36,6 +36,12 @@
 
 ⚡ Fun fact: I can build UIs smoother than a shooting star! 🌠
 
+🚀 Click on this line when the world starts falling apart otherwise don't
+<a href="https://www.youtube.com/watch?v=_HZM0QiuUS8&ab_channel=GooGooDolls" target="_blank">
+  <img src="https://via.placeholder.com/1000x2/ff0000/ff0000?text=" alt="Music" />
+</a>
+
+
 ---
 
 ## 🛠️ Tech Stack
