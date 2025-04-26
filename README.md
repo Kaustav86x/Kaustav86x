@@ -11,9 +11,9 @@
 🌱 I’m constantly learning about advanced React patterns, serverless architectures, and microservices.  
 👯 I’m looking to collaborate on open-source MERN stack projects.  
 🚀 Recent project: [Elephant Juice](https://elephantjuice.org) - Love, Space, and Technology combined!
-💡 **Also passionate about Machine Learning & Deep Learning!** Built a CNN-based project for my Bachelor's final year that predicts [Colorization of Black and White Images using CNN and GAN] 📊🤖
- 💬 Ask me about web development, React performance, backend APIs, and cloud deployments.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaustav-dey-73992a224/)
+💡 **Also passionate about Machine Learning & Deep Learning!** Built a CNN-based project for my Bachelor's final year that predicts [Colorization of Black and White Images using CNN and GAN] 📊🤖.
+💬 Ask me about web development, React performance, backend APIs, and cloud deployments.  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaustav-dey-73992a224/).
 ⚡ Fun fact: I can build UIs smoother than a shooting star! 🌠
 
 ---
