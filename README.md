@@ -24,9 +24,8 @@
 
 ## 📫 Reach Me
 
-[![Git Logo](icon/linkedin.png)](https://www.linkedin.com/in/kaustav-dey-73992a224/)
-
-[![Git Logo](icon/leetcode.png)](https://leetcode.com/u/Kaustav1/)
+[![Git Logo](./linkedin.png)](https://www.linkedin.com/in/kaustav-dey-73992a224/)
+[![Git Logo](./leetcode.png)](https://leetcode.com/u/Kaustav1/)
 
     
 ⚡ Fun fact: I can build UIs smoother than a shooting star! 🌠
